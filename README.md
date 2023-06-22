@@ -1,2 +1,3 @@
 # js-tasks
-Interesting tasks on algorithms from interviews and training materials.
+Разобранные мною задачи по JS при подготовке к собеседованиям.
+CORE-JS => Сборник теоретических вопросов по JS от RS School. Первая и вторая части.
